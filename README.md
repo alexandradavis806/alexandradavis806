@@ -7,7 +7,7 @@
 - 👩‍ What am I looking for? Full stack, frontend, or backend web or mobile developement roles at a company that will feed my hunger for growth!
 
 - 📫 How to reach me: alex.davis806@gmail.com
-- LinkedIn: https://www.linkedin.com/in/alexandra-davis806/
+- 📱 LinkedIn: https://www.linkedin.com/in/alexandra-davis806/
 - 😄 Pronouns: she/her
 
 <!--
