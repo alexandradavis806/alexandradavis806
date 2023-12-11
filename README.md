@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Software Engineer @ JLL Technologies // Climate Tech
+- Software Engineer @ SafeLease
 
 - 📫 How to reach me: alex.davis806@gmail.com
 - 📱 LinkedIn: https://www.linkedin.com/in/alexandra-davis806/
